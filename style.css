@@ -1,0 +1,23 @@
+  /* Color of profils */
+
+.bg-custom {
+  background-color: #35879a;
+}
+
+ /* Color formation and professional experience */
+
+.bg-lightgray {
+  background-color: #D6D6D6;
+}
+
+/* Marge of profils */
+
+.height {
+  margin-top: 26px;
+  margin-bottom: 26px;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
